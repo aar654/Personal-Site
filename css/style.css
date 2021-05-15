@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  line-height: 2;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'RocknRoll One', sans-serif;
+}
+
+
+hr {
+  border: dashed #f6f5f5 20px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.intro {
+  padding-top: 100px;
+  background-color: #d3e0ea;
+}
+
+.about-section {
+  background-color: #1687a7;
+}
+
+.contact-me {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 100px;
+}
+
+.footer-section {
+  padding: 50px 0 20px;
+  background-color: #276678;
+}
+
+.landscape {
+  max-width: 100%;
+  height: auto;
+}
+
+.image8bit {
+  border-radius: 50%;
+  padding: 3rem 0 1rem;
+}
+
+.header-pic {
+  border-radius: 50%;
+}
+
+.about-me {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.controller-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.computer-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
